@@ -14,6 +14,7 @@ const NAV_LINKS = [
   { id: 'jersey', label: 'ДЖЕРСИ' },
   { id: 'outerwear', label: 'КУРТКИ' },
   { id: 'pants', label: 'БРЮКИ' },
+  { id: 'essential', label: 'БАЗА' },
 ];
 
 export default function Header({

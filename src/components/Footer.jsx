@@ -29,6 +29,7 @@ export default function Footer({ onSelectCategory, onOpenUtility }) {
           <button type="button" onClick={() => onSelectCategory('jersey')}>Джерси</button>
           <button type="button" onClick={() => onSelectCategory('outerwear')}>Верхняя одежда</button>
           <button type="button" onClick={() => onSelectCategory('pants')}>Широкие брюки</button>
+          <button type="button" onClick={() => onSelectCategory('essential')}>Базовая одежда</button>
         </div>
 
         <div className="footer-col">

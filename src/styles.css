@@ -211,7 +211,7 @@ input:focus-visible {
 .nav-left-desktop {
   display: inline-flex;
   align-items: center;
-  gap: 28px;
+  gap: 22px;
   justify-self: start;
 }
 
